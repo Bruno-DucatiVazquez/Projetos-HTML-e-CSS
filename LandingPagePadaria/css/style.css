@@ -1,0 +1,61 @@
+.secao {
+    text-align: center;
+    width: 700px;
+    margin: 20px auto;
+}
+
+.imagem-logotipo {
+    width: 200px;
+}
+
+a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #542f0c;
+}
+
+hr {
+    color: #b85c06;
+}
+
+p, h1 {
+    text-align: center;
+}
+
+p {
+    color: #b85c06;
+}
+.texto-ano {
+    color: #b85c06;
+    font-size: 25px;
+}
+
+.vitrini-padaria{
+    
+    width: 700px;
+}
+
+.imagens-secao {
+    width: 400px;
+}
+
+.secao-destaque{
+    background-color: #de8e37;
+}
+
+.secao-destaque h1, h2, p {
+    color: white;
+}
+
+.secao-destaque p {
+    
+    font-size: 20px;
+}
+
+.secao-contato p {
+    color: black;
+}
+
+span {
+    font-weight: bold;
+}
