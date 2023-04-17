@@ -1,0 +1,132 @@
+/* Seção header iniciada */
+
+.header{
+    padding: 20px;
+    background-color: #B0DDFC;
+    text-align: center;
+}
+
+.header img {
+    width: 150px;
+    height: 150px;
+}
+
+.header a {
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    color: #496570;
+}
+
+/* Seção header finalizada */
+
+/* Seção encontrar_movel iniciada */
+
+.encontrar_movel {
+    text-align: center;
+}
+
+.encontrar_movel img {
+    margin: 30px;
+}
+
+.encontrar_movel h2 {
+  
+    color: #5C8DAB;
+}
+
+.imagem-imovel-assinatura{
+    margin: 0 auto;
+    width: 300px;
+    height: 250px;
+}
+
+.encontrar_movel p {
+    
+    font-size: 20px;
+}
+
+.encontrar_movel span{
+    color: #43799D;
+    font-weight: bold;
+}
+
+/* Seção encontrar_movel finalizada */
+
+/* seção serviços iniciada */
+.servicos{
+    padding: 15px;
+    text-align: center;
+    background-color: #1D80C1;
+    color: white;
+}
+.servicos span {
+    color: #EFF442;
+}
+
+/* Seção serviços finalizada */
+
+/* seção corretores iniciada */
+
+.Corretores {
+    margin: 20px;
+    text-align: center;
+}
+
+.Corretores img {
+    width: 450px;
+    height: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.Corretores h2 {
+    font-size: 32px;
+    color: #217AB6;
+}
+
+.Corretores p {
+    font-size: 20px;
+}
+
+.Corretores span {
+    
+    color: #6194C1;
+}
+/* seção corretores finalizada */
+
+.contato {
+    padding: 20px;
+    text-align: center;
+    background-color: #1D80C1;
+}
+
+.contato h2 {
+    color: white;
+}
+
+.contato iframe {
+    width: 1000px;
+    margin: 30px;
+}
+
+.contato p {
+
+
+    padding: 15px;
+    color: white;
+    background-color: black;
+}
+
+.contato span {
+    color: #EBEE2F;
+}
+
+.contato ul {
+    list-style-type: none;
+}
+
+.contato li {
+    background-color: white;
+    padding: 5px;
+}
