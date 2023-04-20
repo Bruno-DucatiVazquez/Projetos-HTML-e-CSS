@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: hsl(217, 54%, 11%);
+    width: 1440px;
+}
+
+.container {
+    margin: 10% 40%;
+    text-align: center;
+}
+
+.background-image {
+    text-align: center;
+    border-radius: 15px;
+    height: 900px;
+    width: 700px;
+    background-color: hsl(216, 50%, 16%);
+}
+
+.image {
+    border-radius: 15px;
+  padding: 10% 0%;
+    
+}
+
+.background-image h1 {
+    position: relative;
+    bottom: 40px;
+    margin-left: 50px;
+    text-align: left;
+    color: hsl(0, 0%, 100%);
+}
+
+.background-image h2 {
+
+    font-size: 28px;
+    color: hsl(215, 51%, 70%);
+}
+
+.imagem-etherium {
+    position: relative;
+    top: 30px;
+    right: 300px;
+}
+
+.background-image p {
+    font-size: 28px;
+    color: white;
+    position: relative;
+    right: 220px;
+}
+
+.clock{
+    position: relative;
+    bottom: 30px;
+    left: 150px;
+}
+
+.clock p{
+    position: relative;
+    bottom: 30px;
+    left: 90px;
+}
